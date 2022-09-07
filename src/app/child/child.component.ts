@@ -18,6 +18,9 @@ export class ChildComponent implements OnInit {
     console.log("inside child component")
     
     console.log("inside child component from main branch...........")
+
+
+    console.log("inside child component for dev-3")
     
     console.log("inside child compo for rebase operation.........")
   }
