@@ -13,7 +13,10 @@ export class ParentComponent implements OnInit {
 
   ngOnInit(): void {
     
-    console.log("inside parent component")
+    console.log("inside parent component")  
+
+    console.log("dev branch inside parent component")
+    
     console.log("duplicate main branch inside parent component")
 
   }
