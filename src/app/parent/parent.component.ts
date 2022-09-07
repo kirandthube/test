@@ -12,11 +12,9 @@ export class ParentComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
-
-
+    
     console.log("inside parent component")
 
-    
   }
 
 }
