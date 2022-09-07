@@ -1,3 +1,5 @@
+
+
 import { Component, Input, OnInit } from '@angular/core';
 
 @Component({
@@ -15,3 +17,5 @@ export class ChildComponent implements OnInit {
   }
 
 }
+
+
