@@ -14,6 +14,7 @@ export class ParentComponent implements OnInit {
   ngOnInit(): void {
     
     console.log("inside parent component")
+    console.log("dev branch inside parent component")
 
   }
 
