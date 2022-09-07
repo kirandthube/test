@@ -16,6 +16,9 @@ export class ChildComponent implements OnInit {
   ngOnInit(): void {
 
     console.log("inside child component")
+    
+    console.log("inside child component from main branch...........")
+    
   }
 
 }
